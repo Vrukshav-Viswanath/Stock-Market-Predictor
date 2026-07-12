@@ -3,7 +3,6 @@
 This project explores the use of **Long Short-Term Memory (LSTM)** neural networks for forecasting stock prices from historical market data. The model is trained on closing prices retrieved through the Yahoo Finance API and demonstrates how recurrent neural networks can identify temporal patterns in financial time series.
 
 ## Features
-
 - Retrieves historical stock market data using Yahoo Finance
 - Normalizes and preprocesses time-series data
 - Trains an LSTM model using TensorFlow/Keras
