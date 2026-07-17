@@ -18,7 +18,7 @@ This project explores the use of **Long Short-Term Memory (LSTM)** neural networ
 - Pandas
 - Matplotlib
 - Scikit-learn
-- yfinance
+- yfinance (Yahoo Finance)
 
 ## Installation
 
